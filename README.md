@@ -1,12 +1,22 @@
-<!-- <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanTodoran&layout=compact&show_icons=true&title_color=fff&text_color=fff&bg_color=0,90A955,6F9041&hide_border=true&border_radius=10"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=StefanTodoran&show_icons=true&count_private=true&hide_title=true&text_color=fff&bg_color=0,6F9041,4F772D&hide_border=true&border_radius=10&icon_color=BECE7A&ring_color=BECE7A"/>
-</div> -->
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanTodoran&layout=compact&show_icons=true&title_color=000&text_color=000&bg_color=fff&hide_border=true&border_radius=10"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=StefanTodoran&show_icons=true&count_private=true&hide_title=true&text_color=000&bg_color=fff&hide_border=true&border_radius=10&icon_color=BECE7A&ring_color=BECE7A"/>
-</div>
-
-<!-- DARK COLOR #4F772D -->
-<!-- LIGHT COLOR #90A955 -->
-<!-- HIGHLIGHT COLOR #BECE7A -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanTodoran&layout=compact&show_icons=true&title_color=fff&text_color=ddd&bg_color=0D1117&hide_border=true&border_radius=10"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanTodoran&layout=compact&show_icons=true&title_color=000&text_color=000&bg_color=fff&hide_border=true&border_radius=10"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanTodoran&layout=compact&show_icons=true&title_color=000&text_color=000&bg_color=fff&hide_border=true&border_radius=10" />
+</picture>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=StefanTodoran&show_icons=true&count_private=true&hide_title=true&text_color=ddd&bg_color=0D1117&hide_border=true&border_radius=10&icon_color=BECE7A&ring_color=BECE7A"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=StefanTodoran&show_icons=true&count_private=true&hide_title=true&text_color=000&bg_color=fff&hide_border=true&border_radius=10&icon_color=BECE7A&ring_color=BECE7A"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=StefanTodoran&show_icons=true&count_private=true&hide_title=true&text_color=000&bg_color=fff&hide_border=true&border_radius=10&icon_color=BECE7A&ring_color=BECE7A" />
+</picture>
